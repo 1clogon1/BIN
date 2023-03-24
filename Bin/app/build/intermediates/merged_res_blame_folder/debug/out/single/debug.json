@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\drawable_search_24.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\drawable\\search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\drawable_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\drawable\\arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bin.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.bin.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\layout_rc_item.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\layout\\rc_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxsan\\.gradle\\daemon\\7.5\\com.example.bin.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
